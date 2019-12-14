@@ -1,0 +1,10 @@
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\bin\Debug\StudentTest.exe.config
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\bin\Debug\StudentTest.exe
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\bin\Debug\StudentTest.pdb
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\bin\Debug\ClassLibrary1.dll
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\obj\Debug\StudentTest.csprojAssemblyReference.cache
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\obj\Debug\StudentTest.csproj.CoreCompileInputs.cache
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\obj\Debug\StudentTest.csproj.CopyComplete
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\obj\Debug\StudentTest.exe
+C:\Users\Tkach Vitaliy\source\repos\ClassLibrary1\StudentTest\obj\Debug\StudentTest.pdb
